@@ -1,4 +1,4 @@
-# Hi there, I'm 允雷 (VJ Van) 👋
+# Hi there, I'm Van (允雷) 👋
 
 **AI Business System Architect** — I build AI-powered automation systems for enterprises.
 
