@@ -29,4 +29,4 @@ I help businesses integrate AI into their operations - from process diagnostics 
 
 ## Links
 
-- Website: [vjvan-website.vercel.app](https://vjvan-website.vercel.app)
+- Website: [vjvan.com](https://vjvan.com)
