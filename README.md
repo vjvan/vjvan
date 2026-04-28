@@ -12,17 +12,25 @@
 
 **988 廚房 B2B 補貨系統**｜35 年水產加工老字號的 LINE LIFF + n8n + Supabase 架構
 
+![988 廚房 B2B 補貨系統](https://raw.githubusercontent.com/vjvan/vjvan/main/assets/banners/988-kitchen.svg)
+
 凌晨 5 點人工打單變成客戶 LINE 自助下單，18 點截單後系統自動列印製單。webhook + outbox + 三層保險，跑了三週踩到 5 次靜默失敗，全部修完寫進 SOP。雙向客戶確認推播，客戶下完單 LINE 立刻收到品名規格金額，閉環。
 
 **[transcribe-proposal](https://github.com/vjvan/transcribe-proposal)**｜會議錄音一鍵轉提案 PPTX
+
+[![transcribe-proposal](https://raw.githubusercontent.com/vjvan/vjvan/main/assets/banners/transcribe-proposal.svg)](https://github.com/vjvan/transcribe-proposal)
 
 OpenAI Whisper + 結構化 prompt + python-pptx。客戶諮詢錄音丟進去，48 小時內出 proposal + battle card + domain brief 三件組。
 
 **P2P AI Lab**｜Prompt to Pixel, the One-Person AI Video Pipeline
 
+![P2P AI Lab](https://raw.githubusercontent.com/vjvan/vjvan/main/assets/banners/p2p-ai-lab.svg)
+
 Premium 訂閱社群 (Skool, Founding Member US$49/月)。教專業創作者 / 代理商 / 顧問用 AI 建一人影片產線。不是初學者課程，11 個 Module、49 個單元，配套 ai-video-studio 示範專案 + Weavy.ai 節點工作流 + video-cut skill 實作。
 
 **[vjvan-website](https://github.com/vjvan/vjvan-website)**｜個人品牌站
+
+[![vjvan.com](https://raw.githubusercontent.com/vjvan/vjvan/main/assets/banners/vjvan-website.svg)](https://github.com/vjvan/vjvan-website)
 
 Next.js 16 + Tailwind 4 + MDX。AI 商業系統架構師的部落格與作品集。Editorial Issue 01 設計風格 (紙色 + 電氣藍 + Instrument Serif)。
 

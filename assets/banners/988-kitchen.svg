@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="988 廚房 B2B 補貨系統 — Wholesale Reorder System">
+  <defs>
+    <style>
+      .paper { fill: #FAFAF7; }
+      .ink { fill: #0A0A0A; }
+      .muted { fill: #5F5B57; }
+      .rule { stroke: #E5E2DD; stroke-width: 1; }
+      .signal { fill: #1F51FF; }
+      .signal-rule { stroke: #1F51FF; stroke-width: 2; }
+      .meta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; letter-spacing: 0.18em; text-transform: uppercase; }
+      .display-zh { font-family: "Noto Serif TC", "PingFang TC", Georgia, serif; font-weight: 600; }
+      .display-en { font-family: "Instrument Serif", Georgia, "Times New Roman", serif; font-style: italic; font-weight: 400; }
+      .body { font-family: -apple-system, "Helvetica Neue", "Noto Sans TC", system-ui, sans-serif; font-size: 16px; }
+      .stack { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; letter-spacing: 0.05em; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="360" class="paper"/>
+
+  <!-- top meta row -->
+  <text x="64" y="56" class="meta ink">CASE STUDY · 01</text>
+  <line x1="248" y1="50" x2="1180" y2="50" class="rule"/>
+  <text x="1216" y="56" class="meta muted" text-anchor="end">2026 · TAIWAN</text>
+
+  <!-- main title -->
+  <text x="64" y="160" class="display-zh ink" font-size="68">988 廚房 B2B 補貨系統</text>
+  <text x="64" y="218" class="display-en muted" font-size="38">Wholesale Reorder System for a 35-year seafood processor</text>
+
+  <!-- accent rule + tagline -->
+  <line x1="64" y1="252" x2="160" y2="252" class="signal-rule"/>
+  <text x="64" y="290" class="body ink">凌晨 5 點人工打單 → 客戶 LINE 自助下單 · 18 點截單 · 自動列印製單</text>
+
+  <!-- bottom stack row -->
+  <line x1="64" y1="316" x2="1216" y2="316" class="rule"/>
+  <text x="64" y="340" class="stack muted">LINE LIFF · Supabase · Edge Functions · n8n · Outbox · Cloudflare Tunnel</text>
+  <text x="1216" y="340" class="stack signal" text-anchor="end">github.com/vjvan</text>
+</svg>

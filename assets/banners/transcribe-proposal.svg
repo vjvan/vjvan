@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="transcribe-proposal — Convert meeting recordings into structured PPTX proposals">
+  <defs>
+    <style>
+      .paper { fill: #FAFAF7; }
+      .ink { fill: #0A0A0A; }
+      .muted { fill: #5F5B57; }
+      .rule { stroke: #E5E2DD; stroke-width: 1; }
+      .signal { fill: #1F51FF; }
+      .signal-rule { stroke: #1F51FF; stroke-width: 2; }
+      .meta { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; letter-spacing: 0.18em; text-transform: uppercase; }
+      .display-zh { font-family: "Noto Serif TC", "PingFang TC", Georgia, serif; font-weight: 600; }
+      .display-en { font-family: "Instrument Serif", Georgia, "Times New Roman", serif; font-style: italic; font-weight: 400; }
+      .body { font-family: -apple-system, "Helvetica Neue", "Noto Sans TC", system-ui, sans-serif; font-size: 16px; }
+      .stack { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 13px; letter-spacing: 0.05em; }
+    </style>
+  </defs>
+
+  <rect width="1280" height="360" class="paper"/>
+
+  <text x="64" y="56" class="meta ink">TOOL · 02</text>
+  <line x1="180" y1="50" x2="1100" y2="50" class="rule"/>
+  <text x="1216" y="56" class="meta muted" text-anchor="end">OPEN SOURCE · PYTHON</text>
+
+  <text x="64" y="160" class="display-en ink" font-size="72">transcribe-proposal</text>
+  <text x="64" y="218" class="display-zh muted" font-size="34">會議錄音一鍵轉提案 PPTX</text>
+
+  <line x1="64" y1="252" x2="160" y2="252" class="signal-rule"/>
+  <text x="64" y="290" class="body ink">客戶諮詢錄音丟進去 → 48 小時內出 proposal + battle card + domain brief 三件組</text>
+
+  <line x1="64" y1="316" x2="1216" y2="316" class="rule"/>
+  <text x="64" y="340" class="stack muted">OpenAI Whisper · python-pptx · Claude prompt chain · structured outline</text>
+  <text x="1216" y="340" class="stack signal" text-anchor="end">github.com/vjvan/transcribe-proposal</text>
+</svg>
